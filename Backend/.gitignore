@@ -1,0 +1,12 @@
+node_modules
+.env
+package-lock.json
+```
+
+## 📝 License
+
+This project is [MIT](./LICENSE) licensed.
+
+## Authors
+
+👤 **Eyver Vergara**

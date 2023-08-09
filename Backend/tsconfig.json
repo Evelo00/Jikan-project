@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "target": "es2019",
+    "module": "commonjs",
+    "lib": ["es6", "dom"],
+    "outDir": "./dist", // Carpeta de salida para los archivos compilados de TypeScript en el backend
+    "rootDir": "./src", // Carpeta de entrada donde se encuentran los archivos de TypeScript en el backend
+    "strict": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true
+  },
+  "include": ["src"]
+}
